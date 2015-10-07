@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://smplifenathan.github.io
+title: Nathan Weekly
+tagline: A log of everyday life
+description: My life, summarized and posted here weekly.
+paginate: 4
